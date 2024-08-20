@@ -1,0 +1,1 @@
+Sitemap: https://QB3.github.io/optim-crash-course/sitemap.xml
