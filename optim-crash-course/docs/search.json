@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Optimization Crash Course",
     "section": "",
-    "text": "This website gathers the course notes of the optimization crash course held at Mila during Winter 2024.\nDisclaimer This crash course does not contain new or sharp theoretical results compared already existing papers/courses.\nWho is this crash course for? This course is meant a friendly and self-contained path to discover the basics of optimization for deep learning. It is especially taylored for people with limited math background, e.g., deep learning practitioners who want to go beyond torch.optim.ADAM(params, lr=0.001)."
+    "text": "This website gathers the course notes of the optimization crash course held at Mila during Winter 2024.\nDisclaimer This crash course does not contain new or sharp theoretical results compared already existing papers/courses.\nWho is this crash course for? This course is meant to be a friendly and self-contained material to learn the basics of optimization for deep learning. It is especially taylored for people with a limited background in maths, e.g., deep learning practitioners who want to go beyond torch.optim.ADAM(params, lr=0.001)."
   },
   {
     "objectID": "about.html",
